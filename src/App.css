@@ -45,3 +45,17 @@
 .language{
   width: 80%;
 }
+@media screen and (max-width:900px) {
+  .cont{
+    flex-direction: column;
+    /* width: 100%; */
+    padding: 0 2rem;
+    gap: 2rem;
+  }
+  .textbox{
+    /* background-color: #000851; */
+    width: 90%;
+  }
+  
+  
+}
